@@ -1,16 +1,19 @@
-### Hi there 👋
+# Bienvenue sur mon Portfolio 👋
 
-<!--
-**MaxenceIUT/MaxenceIUT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Maxence's photo](https://maxouxax.me/favicon.ico)
 
-Here are some ideas to get you started:
+Je suis un étudiant en Informatique, actuellement en troisième année de BUT. J'ai également eu l'opportunité de travailler en tant que stagiaire chez Razorfish France.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vous pouvez me contacter à l'adresse suivante : [hello@maxouxax.me](mailto:hello@maxouxax.me)
+
+## Activités récentes 📊
+
+| Projet       | Heures de Contribution |
+|--------------|------------------------|
+| Jooboa       | 30 heures              |
+| deeplink.dev | 80 heures              |
+
+---
+
+**[Voir mes projets](#projets)** | **[À propos du BUT INFO AIL](BUT-INFO-AIL.md)**
+
