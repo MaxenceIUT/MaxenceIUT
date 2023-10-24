@@ -1,19 +1,19 @@
-# Bienvenue sur mon Portfolio 👋
+# 🏠 Page d'accueil
+_Dernière mise à jour: 24/10/2023 15:37:00_
 
-![Maxence's photo](https://maxouxax.me/favicon.ico)
+![Dernière mise à jour](https://img.shields.io/badge/Dernière%20mise%20à%20jour-24/10/2023-blue)
+![Heures de contribution à Jooboa](https://img.shields.io/badge/Heures%20de%20contribution%20à%20Jooboa-50-green)
+![Heures de contribution à Supervisor](https://img.shields.io/badge/Heures%20de%20contribution%20à%20Supervisor-30-yellow)
+![Heures de contribution à Raymond](https://img.shields.io/badge/Heures%20de%20contribution%20à%20Raymond-100-red)
 
-Je suis un étudiant en Informatique, actuellement en troisième année de BUT. J'ai également eu l'opportunité de travailler en tant que stagiaire chez Razorfish France.
+## 🤵 Qui suis-je?
+Je suis Maxence Petit, étudiant en troisième année d'études en informatique, spécifiquement en BUT Informatique, option RA-IL (Réalisation d'application: Ingénierie Logicielle). Je suis passionné par le développement logiciel et j'investis beaucoup de mon temps libre à travailler sur des projets personnels divers et variés.
 
-Vous pouvez me contacter à l'adresse suivante : [hello@maxouxax.me](mailto:hello@maxouxax.me)
+## 📞 Contact
+- 📧 Email: [hello@maxouxax.me](mailto:hello@maxouxax.me)
+- 🌐 Logo: ![Logo](https://maxouxax.me/favicon.ico)
 
-## Activités récentes 📊
-
-| Projet       | Heures de Contribution |
-|--------------|------------------------|
-| Jooboa       | 30 heures              |
-| deeplink.dev | 80 heures              |
-
----
-
-**[Voir mes projets](#projets)** | **[À propos du BUT INFO AIL](BUT-INFO-AIL.md)**
-
+## 📊 Tableau d’activité / Heures de contribution sur la dernière année
+- **Jooboa**: environ 50 heures
+- **Supervisor**: environ 30 heures
+- **Raymond**: environ 100 heures
